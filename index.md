@@ -2,12 +2,14 @@
 
 ---
 
-### Launching Recommendation for EarlyRiders(Toy Horse Manufacture)
-#### Conjoint Analysis and Market Simulation Using R and Tableau
+## Launching Recommendation for EarlyRiders(Toy Horse Manufacture)
+### Conjoint Analysis and Market Simulation Using R and Tableau
+
+**[Download Tableau Packaged Workbook on Github]
+
+>EarlyRiders is a toy company specializing in the manufacture of quality toy riding horses with a particular focus on natural materials.The management team decided after much deliberation to revitalize their product portfolio based on the opinions of potential end-users. They realized that their product set was underperforming. For this purpose, we are going to create a conjoint analysis and >
 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
