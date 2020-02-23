@@ -3,7 +3,7 @@
 ---
 
 ## Launching Recommendation for EarlyRiders(Toy Horse Manufacture)
-### Conjoint Analysis and Market Simulation Using R and Tableau
+### Conjoint Analysis and Market Simulation (Analytical Tool: R and Tableau)
 
 **[Download Final Presentation on Github](https://github.com/Jiangcheng-Lin/Jiangcheng-Lin.github.io/blob/master/Portfolios/Final%20Presentation.pdf)**
 
@@ -20,7 +20,7 @@
 
 ---
 ## Business Intelligence in Pricing Analysis - Iron Mountian(Information Management)
-### Pricing Strategy - (Pricefx software, Python, R)
+### Pricing Strategy  - (Analytical Tool: Pricefx software, Python, R)
 
 
 **[Download Final Presentation on Github](https://github.com/Jiangcheng-Lin/Jiangcheng-Lin.github.io/blob/master/Pricing%20Project/Iron%20Mountain%20Pricing%20Analytics.pdf)**
@@ -32,13 +32,17 @@
 ![notebook preview](/Pricing%20Project/Variation%20by%20Client%20Size.png)
 ![notebook preview](/Pricing%20Project/Transportation%20Change.png)
 
-
-
-
-
-
-
 ---
+## Credit Risk Evaluation Model from Decision Support System
+### Predictive Model and Interactive Interface (Analytical Tool: Python)
+
+
+**[Download Final Presentation on Github](
+
+> Every year, credit scoring methodologies provide millions of scores that evaluate the risk in billions of dollars in loans; in fact, the FICO Score is used in more than 90% of lending decisions in the US. Credit scores are an important factor that financial institutions consider when deciding whether or not to approve a loan.
+
+> In this academic project, in order to predict the applicant evaluation for Home Equity Line of Credit(HELOC). We need to develop a predictive model and decision support system interface to justify the accurancy of prediction.
+
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
