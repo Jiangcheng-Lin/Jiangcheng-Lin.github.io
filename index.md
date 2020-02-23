@@ -1,8 +1,10 @@
-## Portfolio
+## Portfolios
 
 ---
 
-### Category Name 1 
+### Launching Recommendation for EarlyRiders(Toy Horse Manufacture)
+#### Conjoint Analysis and Market Simulation Using R and Tableau
+
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
