@@ -5,7 +5,7 @@
 ## Launching Recommendation for EarlyRiders(Toy Horse Manufacture)
 ### Conjoint Analysis and Market Simulation Using R and Tableau
 
-**[Download Tableau Packaged Workbook on Github](https://github.com/Jiangcheng-Lin/Jiangcheng-Lin.github.io/blob/master/Portfolios/Final%20Presentation.pdf)**
+**[Download Final Presentation on Github](https://github.com/Jiangcheng-Lin/Jiangcheng-Lin.github.io/blob/master/Portfolios/Final%20Presentation.pdf)**
 
 **[View Complete Project in R on Github](https://github.com/Jiangcheng-Lin/Jiangcheng-Lin.github.io/blob/master/Portfolios/HW3.html)**
 
@@ -22,11 +22,20 @@
 ## Business Intelligence in Pricing Analysis - Iron Mountian(Information Management)
 ### Pricing Strategy - (Pricefx software, Python, R)
 
+
+**[Download Final Presentation on Github]()**
+
 > As a pricing analyst(practicum), I had participated in Iron Mountain Pricing Case Competition with Fangyuan(Milar) Liu, Kaili Tan, Yuheng Xiong, Yuqiao(Echo) Zhong as a team to give pricing strategy recommendation to the management team from Iron Mountain. Finally, we won the first place out of 6 final teams.
 
-> From this case competition, we were able to use data visualization in Pricefx, Python, and R using pricing analytics such as elasticity, customer segmentation, and price sensitivity analysis. Finally, we extracted insights to create a profitable pricing strategy for the client.
+> From this case competition, we were able to use data visualization in Pricefx, Python, and R using pricing analytics such as elasticity, customer segmentation, and price sensitivity analysis. We found out the different variation change by location and client size and analyzed the further impact of post-acquisition. Finally, we extracted business insights to create a profitable pricing strategy for the client.
 
-![notebook preview]()
+![notebook preview](/Pricing%20Project/Variation%20by%20Client%20Size.png)
+![notebook preview](/Pricing%20Project/Transportation%20Change.png)
+
+
+
+
+
 
 
 ---
