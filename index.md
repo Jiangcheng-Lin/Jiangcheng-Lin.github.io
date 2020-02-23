@@ -23,7 +23,7 @@
 ### Pricing Strategy - (Pricefx software, Python, R)
 
 
-**[Download Final Presentation on Github]()**
+**[Download Final Presentation on Github](https://github.com/Jiangcheng-Lin/Jiangcheng-Lin.github.io/blob/master/Pricing%20Project/Iron%20Mountain%20Pricing%20Analytics.pdf)**
 
 > As a pricing analyst(practicum), I had participated in Iron Mountain Pricing Case Competition with Fangyuan(Milar) Liu, Kaili Tan, Yuheng Xiong, Yuqiao(Echo) Zhong as a team to give pricing strategy recommendation to the management team from Iron Mountain. Finally, we won the first place out of 6 final teams.
 
