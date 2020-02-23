@@ -37,14 +37,18 @@
 ### Predictive Model and Interactive Interface (Analytical Tool: Python)
 
 
-**[Download Final Presentation on Github](
+**[Download Final Presentation on Github](https://github.com/Jiangcheng-Lin/Jiangcheng-Lin.github.io/blob/master/Predictive%20Analysis%20Project/Decision%20Support%20System.pdf)**
 
 > Every year, credit scoring methodologies provide millions of scores that evaluate the risk in billions of dollars in loans; in fact, the FICO Score is used in more than 90% of lending decisions in the US. Credit scores are an important factor that financial institutions consider when deciding whether or not to approve a loan.
 
 > In this academic project, in order to predict the applicant evaluation for Home Equity Line of Credit(HELOC). We need to develop a predictive model and decision support system interface to justify the accurancy of prediction.
 
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+![notebook preview](/Predictive%20Analysis%20Project/1.png)
+
+![notebook preview](/Predictive%20Analysis%20Project/2.png)
+
+
 
 ---
 
