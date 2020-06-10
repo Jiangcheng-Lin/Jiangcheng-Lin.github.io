@@ -11,7 +11,8 @@
 
 **[View in Tableau Public](https://public.tableau.com/profile/jiangcheng.lin#!/vizhome/DescriptivePart2/Descriptive)**
 
-**[Download Final Presentation on Github]
+**[Download Final Presentation on Github](https://github.com/Jiangcheng-Lin/Jiangcheng-Lin.github.io/blob/master/Aurubis%20Project/Aurubis%20Project.pptx.pdf)**
+![notebook preview](
 
 
 
