@@ -9,6 +9,10 @@
 
 > The purpose of this project is to create operational optimization strategy for yield improvement and increasing the accuracy of standard yield. I conducted descriptive analysis through Tableau to create dynamic dashboard for describing yield pattern of each product type in each coil level. We also ran preditive machine learning model using Lasso, Ridge, XGboost, Random Forest to optimize the accuracy of prediction. Based on our analysis, we found out the main dirvers for yield production and give solid recommendation to the clients. Clients are very satisified with our work, and we won the first place out of six teams in total.
 
+**[View in Tableau Public](https://public.tableau.com/profile/jiangcheng.lin#!/vizhome/DescriptivePart2/Descriptive)**
+
+**[Download Final Presentation on Github]
+
 
 
 
