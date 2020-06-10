@@ -5,23 +5,20 @@
 ### Optimization Analysis of Operational Process(Aurubis Buffalo)
 ### Operational Analysis - Descriptive Analysis and Predictive Analysis (Analytical Tool: Python and Tableau)
 
+
+**[Download Final Presentation on Github](https://github.com/Jiangcheng-Lin/Jiangcheng-Lin.github.io/blob/master/Aurubis%20Project/Aurubis%20Project.pptx.pdf)**
+
+
+**[Download Final Presentation on Github](https://github.com/Jiangcheng-Lin/Jiangcheng-Lin.github.io/blob/master/Aurubis%20Project/Aurubis%20Project.pptx.pdf)**
+
 > Aurubis is a manufacturing operation producing copper and brass strip for use in diverse industries. Aurubis currently has several initiatives to expand their data analytics systems and focused on bringing data together across different business system platform. They collects data from all of its processes, both manufacturing and administrative. Data is stored on several platform throughout the organization including Oracle, SQL Server and DB2.
 
 > The purpose of this project is to create operational optimization strategy for yield improvement and increasing the accuracy of standard yield. I conducted descriptive analysis through Tableau to create dynamic dashboard for describing yield pattern of each product type in each coil level. We also ran preditive machine learning model using Lasso, Ridge, XGboost, Random Forest to optimize the accuracy of prediction. Based on our analysis, we found out the main dirvers for yield production and give solid recommendation to the clients. Clients are very satisified with our work, and we won the first place out of six teams in total.
 
-**[View in Tableau Public](https://public.tableau.com/profile/jiangcheng.lin#!/vizhome/DescriptivePart2/Descriptive)**
-
-**[Download Final Presentation on Github](https://github.com/Jiangcheng-Lin/Jiangcheng-Lin.github.io/blob/master/Aurubis%20Project/Aurubis%20Project.pptx.pdf)**
 ![notebook preview](/Aurubis%20Project/Aurubis.png)
 
 
-
-
-
-
-
-
-
+---
 ### Launching Recommendation for EarlyRiders(Toy Horse Manufacture)
 ### Conjoint Analysis and Market Simulation (Analytical Tool: R and Tableau)
 
