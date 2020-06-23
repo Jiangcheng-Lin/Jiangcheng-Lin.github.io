@@ -17,6 +17,7 @@
 
 > In this project, the revenue has been lifted over $50,000 since 2012 by designing cross-sell market strategy based on page performance analysis and conversion testing. I conducted user-level clickstream and building full conversion funnels for different marketing campaign. My results helped company acquire over 40% traffic and I gave solid recommendation for marketing bundle strategy in future product segmentation.
 
+![notebook preview](/Maven%20Fuzzy%20Project/Cross-Sell%20.png)
 
 
 ### Optimization Analysis of Operational Process(Aurubis Buffalo)
