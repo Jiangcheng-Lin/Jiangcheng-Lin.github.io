@@ -2,6 +2,16 @@
 
 ---
 
+### Ecommerce market optimization Strategy
+### Marketing Analytics (Analytical Tool: SQL)
+
+**[Download SQL code Appendix on Github](
+
+> Maven Fuzzy factory is an fuzzy toy online retailer. I worked in an ecommerce data analyst role with the CEO, marketing director and project manager in different department. Given the large database of traffic records and order transactions from 2012 to 2015, From user interface's perspective, I helped the company conducted measuring and testing website conversion performance, optimizing marketing channels, and analyzing business pattern and seaonality. From product and customers'perspective, I applied the product analysis on product sales and website pathing, delivered the user analysis to figure out the customer purchase behavior.
+
+> In this project, the revenue has been lifted over $50,000 since 2012 by designing cross-sell market strategy based on page performance analysis and conversion testing. I conducted user-level clickstream and building full conversion funnels for different marketing campaign. My results helped company acquire over 40% traffic and I gave solid recommendation for marketing bundle strategy in future product segmentation.
+
+
 ### Optimization Analysis of Operational Process(Aurubis Buffalo)
 ### Operational Analysis - Descriptive Analysis and Predictive Analysis (Analytical Tool: Python and Tableau)
 
