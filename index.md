@@ -5,7 +5,13 @@
 ### Ecommerce market optimization Strategy
 ### Marketing Analytics (Analytical Tool: SQL)
 
-**[Download SQL code Appendix on Github](
+**[Channel Performance Analysis](https://github.com/Jiangcheng-Lin/Jiangcheng-Lin.github.io/blob/master/Maven%20Fuzzy%20Project/Analysis%20of%20Channels%20Performance.sql)**
+
+**[Product Sales Analysis](https://github.com/Jiangcheng-Lin/Jiangcheng-Lin.github.io/blob/master/Maven%20Fuzzy%20Project/Product%20Sales%20Analysis.sql)**
+
+**[User Analysis](https://github.com/Jiangcheng-Lin/Jiangcheng-Lin.github.io/blob/master/Maven%20Fuzzy%20Project/User%20Analysis.sql)**
+
+**[Final Project - Cross-Sell Market Strategy](https://github.com/Jiangcheng-Lin/Jiangcheng-Lin.github.io/blob/master/Maven%20Fuzzy%20Project/Final%20Project.sql)**
 
 > Maven Fuzzy factory is an fuzzy toy online retailer. I worked in an ecommerce data analyst role with the CEO, marketing director and project manager in different department. Given the large database of traffic records and order transactions from 2012 to 2015, From user interface's perspective, I helped the company conducted measuring and testing website conversion performance, optimizing marketing channels, and analyzing business pattern and seaonality. From product and customers'perspective, I applied the product analysis on product sales and website pathing, delivered the user analysis to figure out the customer purchase behavior.
 
